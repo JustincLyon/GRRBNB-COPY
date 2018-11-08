@@ -13,7 +13,7 @@
 html{
     font-size: 20px;
     line-height: 1.5;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-family: 'Spicy Rice' , cursive;
 }
 main{
     width: 90%;
@@ -21,8 +21,7 @@ main{
     border: 1px solid #aaa;
 }
 header{
-    /* Photo by Wyatt Ryan on Unsplash */
-    /* Replace this with an image that you select */
+    /* Photo by Anoir Chafik on Unsplash */
     background-image: url(../img/3-Amigo-Doggos.jpg);
     background-size: 100% auto;
     background-position: center center;
@@ -94,6 +93,8 @@ input.price#max::after{
         flex-basis: 50%;
     }
     header{
+        
+    /* Photo by Matthew Henry on Unsplash */
         background-image: url(../img/SnuggieDoggo.jpg);
     }
     .form-box.search{
@@ -119,6 +120,8 @@ input.price#max::after{
     header{
         flex-basis: 30%;
         background-size: auto 100%;
+        
+    /* Photo by Rebekah Howell on Unsplash */
         background-image: url(../img/WeHaveAnArmy.jpg);
 
     }
